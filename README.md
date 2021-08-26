@@ -2,8 +2,11 @@
 
 ## Convergence analysis:
 
-[1. Chang Wang, Jian Liang, Mingkai Huang, Bing Bai, Kun Bai, Hao Li, "Hybrid Differentially Private Federated Learning on Vertically Partitioned Data." Arxiv, 2020.](https://arxiv.org/abs/2009.02763)
-2. Qingsong Zhang, Bin Gu, Cheng Deng, Heng Huang, "Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating." AAAI 2021: 10896-10904.
+
+Title | Publication  | Date
+ ---- | ----- | ------  
+ [Hybrid Differentially Private Federated Learning on Vertically Partitioned Data](https://arxiv.org/abs/2009.02763) | Arxiv | 2020 
+ Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating  | AAAI | 2021 
 
 ## Secure MPC
 1. Kallista A. Bonawitz, Vladimir Ivanov, Ben Kreuter, Antonio Marcedone, H. Brendan McMahan, Sarvar Patel, Daniel Ramage, Aaron Segal, Karn Seth, "Practical Secure Aggregation for Privacy-Preserving Machine Learning." CCS 2017: 1175-1191.
