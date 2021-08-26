@@ -2,7 +2,7 @@
 
 ## Convergence analysis:
 
-1. Chang Wang, Jian Liang, Mingkai Huang, Bing Bai, Kun Bai, Hao Li, "Hybrid Differentially Private Federated Learning on Vertically Partitioned Data." Arxiv, 2020.
+[1. Chang Wang, Jian Liang, Mingkai Huang, Bing Bai, Kun Bai, Hao Li, "Hybrid Differentially Private Federated Learning on Vertically Partitioned Data." Arxiv, 2020.](https://arxiv.org/abs/2009.02763)
 2. Qingsong Zhang, Bin Gu, Cheng Deng, Heng Huang, "Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating." AAAI 2021: 10896-10904.
 
 ## Secure MPC
