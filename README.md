@@ -4,8 +4,8 @@
 
 Title | Publication  | Team/Authors | Date | Methods
  ---- | ----- | ------ | ------ | ------ 
- [Hybrid Differentially Private Federated Learning on Vertically Partitioned Data](https://arxiv.org/abs/2009.02763) | Arxiv | 2020 |
- [Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating](https://arxiv.org/abs/2103.00958)  | AAAI | 2021 |
+ [Hybrid Differentially Private Federated Learning on Vertically Partitioned Data](https://arxiv.org/abs/2009.02763) | Arxiv | | 2020 |
+ [Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating](https://arxiv.org/abs/2103.00958)  | AAAI | | 2021 |
 
 ## Secure MPC
 Title | Publication  | Team/Authors | Date | Methods
