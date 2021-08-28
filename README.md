@@ -1,6 +1,6 @@
 # Security-and-Privacy-in-ML
 
-## Convergence analysis:
+## Convergence Analysis:
 
 Title | Publication  | Team/Authors | Date | Methods
  ---- | ----- | ------ | ------ | ------ 
