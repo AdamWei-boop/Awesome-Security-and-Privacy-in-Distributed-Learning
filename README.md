@@ -10,7 +10,7 @@ Title | Publication  | Team/Authors | Date | Methods
 ## Secure MPC
 Title | Publication  | Team/Authors | Date | Methods
  ---- | ----- | ------ | ------ | ------ 
- [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://dl.acm.org/doi/10.1145/3133956.3133982) | ACM CCS | Googel | 2017 |  Secret Sharing, Key Agreement, Authenticated Encryption
+ [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://dl.acm.org/doi/10.1145/3133956.3133982) | ACM CCS | Google | 2017 |  Secret Sharing, Key Agreement, Authenticated Encryption
  [QUOTIENT: Two-Party Secure Neural Network Training and Prediction](https://dl.acm.org/doi/10.1145/3319535.3339819) | ACM CCS| University of Oxford | 2019 |
  [XONN: XNOR-based Oblivious Deep Neural Network Inference](https://arxiv.org/abs/1902.07342) | USENIX Security Symposium | UC San Diego | 2019 | Secret Sharing, Oblivious Transfer, Garbled Circuits
  [SecureNN: 3-Party Secure Computation for Neural Network Training](https://sciendo.com/article/10.2478/popets-2019-0035) | Priv. Enhancing Technol. | Princeton University | 2019 | 
