@@ -8,6 +8,12 @@ Title | Publication  | Team/Authors | Date | Methods
  [An Overview of Federated Deep Learning Privacy Attacks and Defensive Strategies](https://arxiv.org/abs/2004.04676) |  Federated Learning Systems | Delft University of Technology | 2020 | 
  [No peek: A survey of private distributed deep learning](https://arxiv.org/abs/1812.03288) | Arxiv | Massachusetts Institute of Technology | 2018 | 
  [When machine learning meets privacy: A survey and outlook](https://arxiv.org/abs/2011.11819) | ACM Computing Surveys | University of Technology Sydney | 2021 | 
+ [Federated machine learning: Concept and applications](https://arxiv.org/abs/1902.04885) | ACM Transactions on Intelligent Systems and Technology | Hong Kong University of Science and Technology | 2019 | 
+ [On safeguarding privacy and security in the framework of federated learning](https://arxiv.org/abs/1909.06512) | IEEE Network | Nanjing University of Science and Technology | 2020 | 
+ 
+## Attack/Threat Model
+
+## Homomorphic Encryption
 
 ## Secure MPC
 Title | Publication  | Team/Authors | Date | Methods
