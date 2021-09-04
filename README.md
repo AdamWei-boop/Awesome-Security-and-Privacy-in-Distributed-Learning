@@ -1,4 +1,4 @@
-# Security-and-Privacy-in-ML
+# Security-and-Privacy-in-FL
 
 ## Convergence Analysis
 
