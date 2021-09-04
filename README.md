@@ -23,11 +23,11 @@ Title | Publication  | Team/Authors | Date | Methods
  [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697) | ASIA CCS | Pennsylvania State University | 2017 |
  [The Hidden Vulnerability of Distributed Learning in Byzantium](http://proceedings.mlr.press/v80/mhamdi18a.html) | ICML | EPFL, Switzerland | 2018 |
  [Analyzing Federated Learning through an Adversarial Lens](http://proceedings.mlr.press/v97/bhagoji19a.html) | ICML | Princeton University | 2019 | 
- [Local Model Poisoning Attacks to Byzantine-robust Federated Learning] (https://www.usenix.org/conference/usenixsecurity20/presentation/fang) | USENIX Security | Iowa State University | 2020 |
-[Beyond Inferring Class Representatives: User-Level Privacy Leakage from Federated Learning] (https://arxiv.org/abs/1812.00535) |  IEEE INFOCOM  | Wuhan University | 2019 |
-[Feature Inference Attack on Model Predictions in Vertical Federated Learning] (https://arxiv.org/abs/2010.10152) |  IEEE ICDE  | National University of Singapore | 2021 |
-[Label Leakage and Protection in Two-party Split Learning] (https://arxiv.org/abs/2102.08504) |  Arxiv  | ByteDance Inc. | 2021 |
-[Can we use split learning on 1d cnn models for privacy preserving training?] (https://arxiv.org/abs/2003.12365) |  ASIA CCS  | Data61, CSIRO Australia and Cyber Security CRC | 2020 |
+ [Local Model Poisoning Attacks to Byzantine-robust Federated Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/fang) | USENIX Security | Iowa State University | 2020 |
+[Beyond Inferring Class Representatives: User-Level Privacy Leakage from Federated Learning](https://arxiv.org/abs/1812.00535) |  IEEE INFOCOM  | Wuhan University | 2019 |
+[Feature Inference Attack on Model Predictions in Vertical Federated Learning](https://arxiv.org/abs/2010.10152) |  IEEE ICDE  | National University of Singapore | 2021 |
+[Label Leakage and Protection in Two-party Split Learning](https://arxiv.org/abs/2102.08504) |  Arxiv  | ByteDance Inc. | 2021 |
+[Can we use split learning on 1d cnn models for privacy preserving training?](https://arxiv.org/abs/2003.12365) |  ASIA CCS  | Data61, CSIRO Australia and Cyber Security CRC | 2020 |
  
 ## Framework Design
 
