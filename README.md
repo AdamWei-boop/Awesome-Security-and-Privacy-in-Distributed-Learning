@@ -33,6 +33,7 @@ Title | Publication  | Team/Authors | Date | Methods
 
 Title | Publication  | Team/Authors | Date | Methods
  :------: | :------: | :------: | :------: | :------: 
+ [Split learning for health: Distributed deep learning without sharing raw patient data](https://arxiv.org/abs/1812.00564)  | Arxiv | Massachusetts Institute of Technology | 2019 |
  [Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating](https://arxiv.org/abs/2103.00958)  | AAAI | Xidian University | 2021 | Bilevel Asynchronous Parallel Architecture
  [Privacy Preserving Vertical Federated Learning for Tree-based Models](https://arxiv.org/abs/2008.06170)  | Proc. VLDB Endow. | National University of Singapore | 2020 |
 
