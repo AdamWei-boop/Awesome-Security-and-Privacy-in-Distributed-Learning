@@ -1,4 +1,13 @@
-# Security-and-Privacy-in-FL
+# Security-and-Privacy-in-Distributed/Collaborated/Federated Learning
+
+## Survey Paper
+Title | Publication  | Team/Authors | Date | Methods
+ ---- | ----- | ------ | ------ | ------ 
+ [Strategies and Principles of Distributed Machine Learning on Big Data](https://arxiv.org/abs/1512.09295) | Engineering | CMU | 2016 |  
+ [Threats to federated learning: A survey](https://arxiv.org/abs/2003.02133) | Arxiv| National University of Singapore | 2020 |
+ [An Overview of Federated Deep Learning Privacy Attacks and Defensive Strategies](https://arxiv.org/abs/2004.04676) |  Federated Learning Systems | Delft University of Technology | 2020 | 
+ [No peek: A survey of private distributed deep learning](https://arxiv.org/abs/1812.03288) | Arxiv | Massachusetts Institute of Technology | 2018 | 
+ [When machine learning meets privacy: A survey and outlook](https://arxiv.org/abs/2011.11819) | ACM Computing Surveys | University of Technology Sydney | 2021 | 
 
 ## Secure MPC
 Title | Publication  | Team/Authors | Date | Methods
