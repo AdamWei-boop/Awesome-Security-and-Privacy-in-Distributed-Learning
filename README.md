@@ -6,7 +6,7 @@ Title | Publication  | Team/Authors | Date | Methods
  :------: | :------: | :------: | :------: | :------: 
  [Strategies and Principles of Distributed Machine Learning on Big Data](https://arxiv.org/abs/1512.09295) | Engineering | CMU | 2016 |  
  [No peek: A survey of private distributed deep learning](https://arxiv.org/abs/1812.03288) | Arxiv | Massachusetts Institute of Technology | 2018 | 
- [Federated machine learning: Concept and applications](https://arxiv.org/abs/1902.04885) | ACM Transactions on Intelligent Systems and Technology | Hong Kong University of Science and Technology | 2019 | 
+ [Federated machine learning: Concept and applications](https://arxiv.org/abs/1902.04885) | ACM TIST | Hong Kong University of Science and Technology | 2019 | 
  [On safeguarding privacy and security in the framework of federated learning](https://arxiv.org/abs/1909.06512) | IEEE Network | Nanjing University of Science and Technology | 2020 | 
  [Threats to federated learning: A survey](https://arxiv.org/abs/2003.02133) | Arxiv| National University of Singapore | 2020 |
  [An Overview of Federated Deep Learning Privacy Attacks and Defensive Strategies](https://arxiv.org/abs/2004.04676) |  Federated Learning Systems | Delft University of Technology | 2020 | 
@@ -18,10 +18,10 @@ Title | Publication  | Team/Authors | Date | Methods
 Title | Publication  | Team/Authors | Date | Methods
  :------: | :------: | :------: | :------: | :------: 
  [Deep models under the GAN: information leakage from collaborative deep learning](https://arxiv.org/abs/1702.07464) | ACM CCS| Stevens Institute of Technology | 2017 |
- [Membership inference attacks against machine learning models](https://arxiv.org/abs/1610.05820) | IEEE Symposium on Security & Privacy | Cornell Tech | 2017 |
+ [Membership inference attacks against machine learning models](https://arxiv.org/abs/1610.05820) | IEEE S&P | Cornell Tech | 2017 |
  [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697) | ASIA CCS | Pennsylvania State University | 2017 |
- [Exploiting unintended feature leakage in collaborative learning](https://arxiv.org/abs/1805.04049) | IEEE Symposium on Security & Privacy | UCL | 2018 |
- [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459) | International Conference on Artificial Intelligence and Statistics |  Cornell University | 2019 |
+ [Exploiting unintended feature leakage in collaborative learning](https://arxiv.org/abs/1805.04049) | IEEE S&P | UCL | 2018 |
+ [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459) | ICAIS |  Cornell University | 2019 |
  [The Hidden Vulnerability of Distributed Learning in Byzantium](http://proceedings.mlr.press/v80/mhamdi18a.html) | ICML | EPFL, Switzerland | 2018 |
  [Analyzing Federated Learning through an Adversarial Lens](http://proceedings.mlr.press/v97/bhagoji19a.html) | ICML | Princeton University | 2019 | 
 [Beyond Inferring Class Representatives: User-Level Privacy Leakage from Federated Learning](https://arxiv.org/abs/1812.00535) |  IEEE INFOCOM  | Wuhan University | 2019 |
@@ -54,7 +54,7 @@ Title | Publication  | Team/Authors | Date | Methods
  [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://dl.acm.org/doi/10.1145/3133956.3133982) | ACM CCS | Google | 2017 |  Secret Sharing, Key Agreement, Authenticated Encryption
  [QUOTIENT: Two-Party Secure Neural Network Training and Prediction](https://dl.acm.org/doi/10.1145/3319535.3339819) | ACM CCS| University of Oxford | 2019 |
  [XONN: XNOR-based Oblivious Deep Neural Network Inference](https://arxiv.org/abs/1902.07342) | USENIX Security Symposium | UC San Diego | 2019 | Secret Sharing, Oblivious Transfer, Garbled Circuits
- [SecureNN: 3-Party Secure Computation for Neural Network Training](https://sciendo.com/article/10.2478/popets-2019-0035) | Priv. Enhancing Technol. | Princeton University | 2019 | 
+ [SecureNN: 3-Party Secure Computation for Neural Network Training](https://sciendo.com/article/10.2478/popets-2019-0035) | PETS | Princeton University | 2019 | 
  [Practical Two-party Privacy-preserving Neural Network Based on Secret Sharing](https://arxiv.org/abs/2104.04709) | Arxiv | Jilin University | 2021 | Secret Sharing, Oblivious Transfer
  
 ## Differential Privacy
@@ -62,7 +62,7 @@ Title | Publication  | Team/Authors | Date | Methods
 Title | Publication  | Team/Authors | Date | Methods
  :------: | :------: | :------: | :------: | :------: 
  [Distributed deep learning under differential privacy with the teacher-student paradigm](https://www.aaai.org/ocs/index.php/WS/AAAIW18/paper/viewPaper/16631) | AAAI  | Nanyang Technological University | 2018 |
- [Minimax-optimal privacy-preserving sparse pca in distributed systems](http://proceedings.mlr.press/v84/ge18a.html) | International Conference on Artificial Intelligence and Statistics | Princeton University | 2018 |
+ [Minimax-optimal privacy-preserving sparse pca in distributed systems](http://proceedings.mlr.press/v84/ge18a.html) | ICAIS | Princeton University | 2018 |
  [Differentially private malicious agent avoidance in multiagent advising learning](https://ieeexplore.ieee.org/abstract/document/8685696) | IEEE Transactions on Cybernetics | University of Technology Sydney | 2019 |
  [DP-ADMM: ADMM-based distributed learning with differential privacy](https://arxiv.org/abs/1808.10101) | IEEE TIFS | Oklahoma State University | 2019 |
  [Hybrid Differentially Private Federated Learning on Vertically Partitioned Data](https://arxiv.org/abs/2009.02763) | Arxiv | Tencent | 2020 |
