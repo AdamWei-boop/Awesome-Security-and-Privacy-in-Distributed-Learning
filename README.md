@@ -15,7 +15,7 @@ Title | Publication  | Team/Authors | Date | Methods
 ## Attack/Threat Model
 
 Title | Publication  | Team/Authors | Date | Methods
- ---- | ----- | ------ | ------ | ------ 
+ :------: | :------: | :------: | :------: | :------: 
  [Exploiting unintended feature leakage in collaborative learning](https://arxiv.org/abs/1805.04049) | IEEE
 Symposium on Security & Privacy | UCL | 2018 |
  [Deep models under the GAN: information leakage from collaborative deep learning](https://arxiv.org/abs/1702.07464) | ACM CCS| Stevens Institute of Technology | 2017 |
@@ -35,14 +35,14 @@ Can we use split learning on 1d cnn models for privacy preserving training? (htt
 ## Framework Design
 
 Title | Publication  | Team/Authors | Date | Methods
- ---- | ----- | ------ | ------ | ------ 
+ :------: | :------: | :------: | :------: | :------: 
  [Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating](https://arxiv.org/abs/2103.00958)  | AAAI | Xidian University | 2021 | Bilevel Asynchronous Parallel Architecture
  [Privacy Preserving Vertical Federated Learning for Tree-based Models](https://arxiv.org/abs/2008.06170)  | Proc. VLDB Endow. | National University of Singapore | 2020 |
 
 ## Homomorphic Encryption
 
 Title | Publication  | Team/Authors | Date | Methods
- ---- | ----- | ------ | ------ | ------ 
+ :------: | :------: | :------: | :------: | :------: 
  [Privacy-preserving deep learning via additively homomorphic encryption](https://ieeexplore.ieee.org/abstract/document/8241854) | IEEE TIFS | National Institute of Information and Communications Technology, Tokyo | 2017 | 
  [Scalable privacy-preserving distributed learning](https://arxiv.org/abs/2005.09532) | PETS | École Polytechnique Fédérale de Lausanne | 2021 | 
  [Verifynet: Secure and verifiable federated learning](https://ieeexplore.ieee.org/abstract/document/8765347) | IEEE TIFS | University of Electronic Science and Technology of China | 2019 | 
@@ -51,7 +51,7 @@ Title | Publication  | Team/Authors | Date | Methods
 ## Secure MPC
 
 Title | Publication  | Team/Authors | Date | Methods
- ---- | ----- | ------ | ------ | ------ 
+ :------: | :------: | :------: | :------: | :------: 
  [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://dl.acm.org/doi/10.1145/3133956.3133982) | ACM CCS | Google | 2017 |  Secret Sharing, Key Agreement, Authenticated Encryption
  [QUOTIENT: Two-Party Secure Neural Network Training and Prediction](https://dl.acm.org/doi/10.1145/3319535.3339819) | ACM CCS| University of Oxford | 2019 |
  [XONN: XNOR-based Oblivious Deep Neural Network Inference](https://arxiv.org/abs/1902.07342) | USENIX Security Symposium | UC San Diego | 2019 | Secret Sharing, Oblivious Transfer, Garbled Circuits
@@ -61,7 +61,7 @@ Title | Publication  | Team/Authors | Date | Methods
 ## Differential Privacy
 
 Title | Publication  | Team/Authors | Date | Methods
- ---- | ----- | ------ | ------ | ------ 
+ :------: | :------: | :------: | :------: | :------: 
  [Hybrid Differentially Private Federated Learning on Vertically Partitioned Data](https://arxiv.org/abs/2009.02763) | Arxiv | Tencent | 2020 |
  [Minimax-optimal privacy-preserving sparse pca in distributed systems](http://proceedings.mlr.press/v84/ge18a.html) | International Conference on Artificial Intelligence and Statistics | Princeton University | 2018 |
  [DP-ADMM: ADMM-based distributed learning with differential privacy](https://arxiv.org/abs/1808.10101) | IEEE TIFS | Oklahoma State University | 2019 |
@@ -73,7 +73,7 @@ Title | Publication  | Team/Authors | Date | Methods
  ## Robust Aggregation
 
 Title | Publication  | Team/Authors | Date | Methods
- ---- | ----- | ------ | ------ | ------ 
+ :------: | :------: | :------: | :------: | :------: 
  [Machine learning with adversaries: Byzantine tolerant gradient descent](https://dl.acm.org/doi/abs/10.5555/3294771.3294783) | NIPS | EPFL, Switzerland | 2017 |
  [Robust aggregation for federated learning](https://arxiv.org/abs/1912.13445) | Arxiv | University of Washington | 2019 |
  [Cronus: Robust and Heterogeneous Collaborative Learning with Black-Box Knowledge Transfer](https://arxiv.org/abs/1912.11279) | Arxiv | National University of Singapore | 2019 |
