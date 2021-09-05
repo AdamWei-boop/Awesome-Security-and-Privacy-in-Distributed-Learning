@@ -1,4 +1,4 @@
-# Security-and-Privacy-in-Distributed/Collaborated/Federated Learning/Split Learning/Multi-Agent Systems
+# Security and Privacy in Distributed/Collaborated/Federated/Split/Multi-Agent Learning
 
 ## Survey Paper
 
@@ -46,6 +46,7 @@ Title | Publication  | Team/Authors | Date | Methods
  [Verifynet: Secure and verifiable federated learning](https://ieeexplore.ieee.org/abstract/document/8765347) | IEEE TIFS | University of Electronic Science and Technology of China | 2019 | 
  [Additively Homomorphical Encryption based Deep Neural Network for Asymmetrically Collaborative Machine Learning](https://arxiv.org/abs/2007.06849) | Arxiv | Chinese University of Hong Kong | 2020 | 
  [Scalable privacy-preserving distributed learning](https://arxiv.org/abs/2005.09532) | PETS | École Polytechnique Fédérale de Lausanne | 2021 | 
+ [Privacy-Enhanced Federated Learning against Poisoning Adversaries](https://ieeexplore.ieee.org/abstract/document/9524709) | IEEE TIFS | University of Electronic Science and Technology of China | 2021 | 
 
 ## Secure MPC
 
