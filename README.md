@@ -21,8 +21,8 @@ Title | Publication  | Team/Authors | Date | Methods
  [Membership inference attacks against machine learning models](https://arxiv.org/abs/1610.05820) | IEEE S&P | Cornell Tech | 2017 |
  [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697) | ASIA CCS | Pennsylvania State University | 2017 |
  [Exploiting unintended feature leakage in collaborative learning](https://arxiv.org/abs/1805.04049) | IEEE S&P | UCL | 2018 |
+[The Hidden Vulnerability of Distributed Learning in Byzantium](http://proceedings.mlr.press/v80/mhamdi18a.html) | ICML | EPFL, Switzerland | 2018 |
  [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459) | ICAIS |  Cornell University | 2019 |
- [The Hidden Vulnerability of Distributed Learning in Byzantium](http://proceedings.mlr.press/v80/mhamdi18a.html) | ICML | EPFL, Switzerland | 2018 |
  [Analyzing Federated Learning through an Adversarial Lens](http://proceedings.mlr.press/v97/bhagoji19a.html) | ICML | Princeton University | 2019 | 
 [Beyond Inferring Class Representatives: User-Level Privacy Leakage from Federated Learning](https://arxiv.org/abs/1812.00535) |  IEEE INFOCOM  | Wuhan University | 2019 |
  [Local Model Poisoning Attacks to Byzantine-robust Federated Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/fang) | USENIX Security | Iowa State University | 2020 |
