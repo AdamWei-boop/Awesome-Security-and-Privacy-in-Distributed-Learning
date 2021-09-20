@@ -52,11 +52,11 @@ Title | Publication  | Team/Authors | Date | Methods
 
 Title | Publication  | Team/Authors | Date | Methods
  :------: | :------: | :------: | :------: | :------: 
- [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://dl.acm.org/doi/10.1145/3133956.3133982) | ACM CCS | Google | 2017 |  Secret Sharing, Key Agreement, Authenticated Encryption
- [QUOTIENT: Two-Party Secure Neural Network Training and Prediction](https://dl.acm.org/doi/10.1145/3319535.3339819) | ACM CCS| University of Oxford | 2019 |
- [XONN: XNOR-based Oblivious Deep Neural Network Inference](https://arxiv.org/abs/1902.07342) | USENIX Security | UC San Diego | 2019 | Secret Sharing, Oblivious Transfer, Garbled Circuits
- [SecureNN: 3-Party Secure Computation for Neural Network Training](https://sciendo.com/article/10.2478/popets-2019-0035) | PETS | Princeton University | 2019 | 
- [Practical Two-party Privacy-preserving Neural Network Based on Secret Sharing](https://arxiv.org/abs/2104.04709) | Arxiv | Jilin University | 2021 | Secret Sharing, Oblivious Transfer
+ [Practical secure aggregation for privacy-preserving machine learning](https://dl.acm.org/doi/10.1145/3133956.3133982) | ACM CCS | Google | 2017 |  Secret Sharing, Key Agreement, Authenticated Encryption
+ [QUOTIENT: Two-party secure neural network training and prediction](https://dl.acm.org/doi/10.1145/3319535.3339819) | ACM CCS| University of Oxford | 2019 |
+ [XONN: XNOR-based oblivious deep neural network inference](https://arxiv.org/abs/1902.07342) | USENIX Security | UC San Diego | 2019 | Secret Sharing, Oblivious Transfer, Garbled Circuits
+ [SecureNN: 3-party secure computation for neural network training](https://sciendo.com/article/10.2478/popets-2019-0035) | PETS | Princeton University | 2019 | 
+ [Practical two-party privacy-preserving neural network based on secret sharing](https://arxiv.org/abs/2104.04709) | Arxiv | Jilin University | 2021 | Secret Sharing, Oblivious Transfer
  
 ## Differential Privacy
 
@@ -69,7 +69,7 @@ Title | Publication  | Team/Authors | Date | Methods
  [Hybrid Differentially Private Federated Learning on Vertically Partitioned Data](https://arxiv.org/abs/2009.02763) | Arxiv | Tencent | 2020 |
  [Federated learning with differential privacy: Algorithms and performance analysis](http://128.84.4.18/abs/1911.00222) | IEEE TIFS | Nanjing University of Science and Technology | 2020 |
  [Arbitrarily strong utility-privacy tradeoff in multi-agent systems](https://ieeexplore.ieee.org/abstract/document/9167255) | IEEE TIFS | Nanyang Technological University | 2020 |
- [Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization](https://www.ijcai.org/proceedings/2021/0202.pdf) |AAAI|The University of Texas at San Antonio|2021| Random Sparsifier to reduce transmission overhead and enhance privacy
+ [Federated learning with sparsification-amplified privacy and adaptive optimization](https://www.ijcai.org/proceedings/2021/0202.pdf) |AAAI|The University of Texas at San Antonio|2021| Random sparsifier to reduce transmission overhead and enhance privacy
  
  ## Robust Aggregation
 
@@ -83,9 +83,9 @@ Title | Publication  | Team/Authors | Date | Methods
  [A Little Is Enough: Circumventing Defenses For Distributed Learning](https://arxiv.org/abs/1902.06156) | NeurIPS| Bar Ilan University | 2019 |
  [FederBoost: Private Federated Learning for GBDT](https://arxiv.org/abs/2011.02796) | Arxiv| Zhejiang University | 2020 |
  [Shielding collaborative learning: Mitigating poisoning attacks through client-side detection](https://arxiv.org/abs/1910.13111) | IEEE TDSC | Wuhan University | 2020 |
- [Byzantine-robust Federated Learning through Spatial-temporal Analysis of Local Model Updates](https://arxiv.org/abs/2107.01477) | Arxiv | University of Tennessee | 2021 |
- [Manipulating the Byzantine Optimizing Model Poisoning Attacks and Defenses for Federated Learning](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-3_24498_paper.pdf) | NDSS | University of Massachusetts Amherst | 2021 |
- [FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping](https://arxiv.org/abs/2012.13995) | NDSS | Duke University | 2021 |
+ [Byzantine-robust federated learning through spatial-temporal analysis of local model updates](https://arxiv.org/abs/2107.01477) | Arxiv | University of Tennessee | 2021 |
+ [Manipulating the byzantine optimizing model poisoning attacks and defenses for federated learning](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-3_24498_paper.pdf) | NDSS | University of Massachusetts Amherst | 2021 |
+ [FLTrust: Byzantine-robust federated learning via trust bootstrapping](https://arxiv.org/abs/2012.13995) | NDSS | Duke University | 2021 |
  
  
 
