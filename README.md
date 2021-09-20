@@ -69,6 +69,7 @@ Title | Publication  | Team/Authors | Date | Methods
  [Hybrid Differentially Private Federated Learning on Vertically Partitioned Data](https://arxiv.org/abs/2009.02763) | Arxiv | Tencent | 2020 |
  [Federated learning with differential privacy: Algorithms and performance analysis](http://128.84.4.18/abs/1911.00222) | IEEE TIFS | Nanjing University of Science and Technology | 2020 |
  [Arbitrarily strong utility-privacy tradeoff in multi-agent systems](https://ieeexplore.ieee.org/abstract/document/9167255) | IEEE TIFS | Nanyang Technological University | 2020 |
+ [Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization](https://www.ijcai.org/proceedings/2021/0202.pdf) |AAAI|The University of Texas at San Antonio|2021| Random Sparsifier to reduce transmission overhead
  
  ## Robust Aggregation
 
