@@ -41,7 +41,7 @@ Title | Publication  | Team/Authors | Date | Methods
 ## Homomorphic Encryption
 
 Title | Publication  | Team/Authors | Date | Methods
- :------: | :------: | :------: | :------: | :------: 
+ :------: | :------: | :------: | :------: | :------:
  [Privacy-preserving deep learning via additively homomorphic encryption](https://ieeexplore.ieee.org/abstract/document/8241854) | IEEE TIFS | National Institute of Information and Communications Technology, Tokyo | 2017 | 
  [Verifynet: Secure and verifiable federated learning](https://ieeexplore.ieee.org/abstract/document/8765347) | IEEE TIFS | University of Electronic Science and Technology of China | 2019 | 
  [Additively Homomorphical Encryption based Deep Neural Network for Asymmetrically Collaborative Machine Learning](https://arxiv.org/abs/2007.06849) | Arxiv | Chinese University of Hong Kong | 2020 | 
