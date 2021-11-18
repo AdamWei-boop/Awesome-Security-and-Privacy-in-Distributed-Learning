@@ -59,7 +59,11 @@ Title | Publication  | Team/Authors | Date | Methods
  [Practical two-party privacy-preserving neural network based on secret sharing](https://arxiv.org/abs/2104.04709) | Arxiv | Jilin University | 2021 | Secret Sharing, Oblivious Transfer
  
 ## Differential Privacy
-
+### Model Shuffle
+Title | Publication  | Team/Authors | Date | Methods
+ :------: | :------: | :------: | :------: | :------: 
+ [FLAME: Differentially private federated learning in the shuffle model](https://www.aaai.org/AAAI21Papers/AAAI-4838.LiuR.pdf) | AAAI  | Renmin University of China | 2021 |
+### Others
 Title | Publication  | Team/Authors | Date | Methods
  :------: | :------: | :------: | :------: | :------: 
  [Distributed deep learning under differential privacy with the teacher-student paradigm](https://www.aaai.org/ocs/index.php/WS/AAAIW18/paper/viewPaper/16631) | AAAI  | Nanyang Technological University | 2018 |
