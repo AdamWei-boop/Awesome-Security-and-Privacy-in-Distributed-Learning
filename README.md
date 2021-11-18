@@ -61,8 +61,12 @@ Title | Publication  | Team/Authors | Date | Methods
 ## Differential Privacy
 ### Model Shuffle
 Title | Publication  | Team/Authors | Date | Methods
- :------: | :------: | :------: | :------: | :------: 
+ :------: | :------: | :------: | :------: | :------:
+ [On the Renyi Differential Privacy of the Shuffle Model](https://arxiv.org/abs/2105.05180) | CCS Best Paper Reward  | UCLA/Google | 2021 |
  [FLAME: Differentially private federated learning in the shuffle model](https://www.aaai.org/AAAI21Papers/AAAI-4838.LiuR.pdf) | AAAI  | Renmin University of China | 2021 |
+ [Shuffled model of differential privacy in federated learning](https://ieeexplore.ieee.org/abstract/document/9517906) | AISTATS  | UCLA/Google | 2021 |
+ [Differentially private federated learning with shuffling and client self-sampling](https://ieeexplore.ieee.org/abstract/document/9517906) | IEEE ISIT  | UCLA | 2021 |
+ [Shuffled Model of Federated Learning: Privacy, Accuracy and Communication Trade-Offs](https://arxiv.org/abs/2008.07180) | IEEE Journal on Selected Areas in Information Theory | UCLA/Google | 2021 |
 ### Others
 Title | Publication  | Team/Authors | Date | Methods
  :------: | :------: | :------: | :------: | :------: 
