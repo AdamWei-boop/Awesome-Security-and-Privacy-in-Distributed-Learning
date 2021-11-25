@@ -95,5 +95,11 @@ Title | Publication  | Team/Authors | Date | Methods
  [Manipulating the byzantine optimizing model poisoning attacks and defenses for federated learning](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-3_24498_paper.pdf) | NDSS | University of Massachusetts Amherst | 2021 |
  [FLTrust: Byzantine-robust federated learning via trust bootstrapping](https://arxiv.org/abs/2012.13995) | NDSS | Duke University | 2021 |
  
+ ## Adversarial Training
+
+Title | Publication  | Team/Authors | Date | Methods
+ :------: | :------: | :------: | :------: | :------: 
+ [On the Convergence and Robustness of Adversarial Training](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf) | ICML | JD | 2021 |
+ 
  
 
